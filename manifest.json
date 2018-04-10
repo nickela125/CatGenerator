@@ -1,0 +1,21 @@
+{
+  "name": "Cat Generator",
+  "description": "The purrfect extension to keep you entertained with awesome cat gifs.",
+  "version": "1.0",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/cat_16.png",
+      "32": "images/cat_32.png",
+      "48": "images/cat_48.png",
+      "128": "images/cat_128.png"
+    }
+  },
+  "icons": {
+    "16": "images/cat_16.png",
+    "32": "images/cat_32.png",
+    "48": "images/cat_48.png",
+    "128": "images/cat_128.png"
+  },
+  "manifest_version": 2
+}
